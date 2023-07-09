@@ -1,0 +1,322 @@
+{
+	"Korean": {
+		"dictionary and co": [
+			{
+				"name": "Korean sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Korean sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Korean dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "korean_sentences.apkg",
+				"price": 5
+			}
+		]
+	},
+	"Vietnamese": {
+		"dictionary and co": [
+			{
+				"name": "Vietnamese sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "vietnamese_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Vietnamese dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Vietnamese sentences (alpha).pdf",
+				"price": 5
+			}
+		]
+	},
+	"Hindi": {
+		"dictionary and co": [
+			{
+				"name": "Hindi dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Hindi sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "hindi_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Hindi sentences (freq).pdf",
+				"price": 5
+			}
+		]
+	},
+	"Japanese": {
+		"dictionary and co": [
+			{
+				"name": "Japanese sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Japanese dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Japanese sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "japanese_sentences.apkg",
+				"price": 5
+			}
+		]
+	},
+	"Thai": {
+		"dictionary and co": [
+			{
+				"name": "Thai sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "thai_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Thai sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Thai dictionary.pdf",
+				"price": 5
+			}
+		]
+	},
+	"Turkish": {
+		"dictionary and co": [
+			{
+				"name": "Turkish sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Turkish sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Turkish dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "turkish_sentences.apkg",
+				"price": 5
+			}
+		]
+	},
+	"Russian": {
+		"dictionary and co": [
+			{
+				"name": "Russian sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "russian_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Russian dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Russian sentences (alpha).pdf",
+				"price": 5
+			}
+		]
+	},
+	"Italian": {
+		"dictionary and co": [
+			{
+				"name": "Italian sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Italian sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "italian_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Italian dictionary.pdf",
+				"price": 5
+			}
+		]
+	},
+	"Greek": {
+		"dictionary and co": [
+			{
+				"name": "Greek sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Greek dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Greek sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "greek_sentences.apkg",
+				"price": 5
+			}
+		]
+	},
+	"Portuguese": {
+		"dictionary and co": [
+			{
+				"name": "Portuguese sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Portuguese sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Portuguese dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "portuguese_sentences.apkg",
+				"price": 5
+			}
+		]
+	},
+	"Hebrew": {
+		"dictionary and co": [
+			{
+				"name": "Hebrew sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "hebrew_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Hebrew dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "Hebrew sentences (alpha).pdf",
+				"price": 5
+			}
+		]
+	},
+	"French": {
+		"dictionary and co": [
+			{
+				"name": "french_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "French dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "French sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "French sentences (alpha).pdf",
+				"price": 5
+			}
+		]
+	},
+	"Spanish": {
+		"dictionary and co": [
+			{
+				"name": "Spanish sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Spanish sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "spanish_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Spanish dictionary.pdf",
+				"price": 5
+			}
+		]
+	},
+	"Chinese": {
+		"dictionary and co": [
+			{
+				"name": "Chinese dictionary.pdf",
+				"price": 5
+			},
+			{
+				"name": "chinese_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Chinese sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "Chinese sentences (alpha).pdf",
+				"price": 5
+			}
+		]
+	},
+	"Persian": {
+		"dictionary and co": [
+			{
+				"name": "Persian sentences (freq).pdf",
+				"price": 5
+			},
+			{
+				"name": "persian_sentences.apkg",
+				"price": 5
+			},
+			{
+				"name": "Persian sentences (alpha).pdf",
+				"price": 5
+			},
+			{
+				"name": "Persian dictionary.pdf",
+				"price": 5
+			}
+		]
+	},
+	"Arabic": {
+		"dictionary and co": [
+			{
+				"name": "Arabic sentences (alpha).pdf",
+				"price": 3
+			},
+			{
+				"name": "arabic_sentences.apkg",
+				"price": 3
+			},
+			{
+				"name": "Arabic dictionary.pdf",
+				"price": 3
+			},
+			{
+				"name": "Arabic sentences (freq).pdf",
+				"price": 3
+			}
+		]
+	}
+}
